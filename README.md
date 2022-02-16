@@ -9,6 +9,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raffaelmiranda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffaelmiranda&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+<div align="center">
+  <a href="https://github.com/tauz-hub/tauz-hub.git">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rafael streak" src="http://github-readme-streak-stats.herokuapp.com?user=raffaelmiranda&theme=dark&date_format=j%2Fn%5B%2FY%5D&stroke=559EF3&background=0D1117&fire=559EF3&currStreakLabel=559EF3&ring=559EF3"/>
+  </a>
+</div>    
    
   ##
 
