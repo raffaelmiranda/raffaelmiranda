@@ -1,7 +1,7 @@
 ### Olá tudo bem? 👋
 - 📧 Quer falar comigo, me manda um e-mail ou me segue no linkedin
 - 💻 Trabalho como Backend developer
-- 🎨 Arranho quase nada no front-end
+- 🎨 Estudando tecnologias de front-end, arranho quase nada,
 
 
 <div align="center">
