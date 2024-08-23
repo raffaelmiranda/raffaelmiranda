@@ -1,7 +1,8 @@
 ### Olá tudo bem? 👋
-- 📧 Quer falar comigo, me manda um e-mail ou me segue no linkedin
+- 💻 Quer falar comigo, me manda um e-mail ou me segue no linkedin
 - 💻 Trabalho como Backend developer
-- 🎨 Estudando tecnologias de front-end, arranho quase nada,
+- 💻 Estudando tecnologias de front-end, arranho quase nada,
+- 💻 Aqui só tem projetos feitos em curso, não espere projetos autorais.
 
 
 <div align="center">
